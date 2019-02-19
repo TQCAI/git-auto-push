@@ -1,7 +1,7 @@
 import sys,os,re
 
 userName='TQCAI'
-password='TQCx685337'
+password='password'
 
 gitignore='''
 venv
